@@ -1,0 +1,4 @@
+pubclass demeo {
+public static vary main(String[] args){
+system.out.println("helo,world");
+}
